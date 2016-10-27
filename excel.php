@@ -60,6 +60,7 @@ for($j=7;$j<=37;$j++){
 
 }
 
+
 //addition of cells
 $colDSum=0;
 for($k=7;$k<=37;$k++){
